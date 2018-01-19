@@ -8,7 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://ecstatic-spence-a3eed8.netlify.com/
-baseurl: ""
+baseurl: "/ecstatic-spence-a3eed8.netlify.com"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
